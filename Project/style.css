@@ -95,22 +95,22 @@ p {
 
 @keyframes changer {
   0% {
-    background-image: url(./img/66666.svg);
+    background-image: url(./img/1.png);
   }
   20% {
-    background-image: url(./img/12111.svg);
+    background-image: url(./img/2.png);
   }
   40% {
-    background-image: url(./img/2222.svg);
+    background-image: url(./img/3.png);
   }
   60% {
-    background-image: url(./img/33333.svg);
+    background-image: url(./img/4.png);
   }
   80% {
-    background-image: url(./img/4444.svg);
+    background-image: url(./img/5.png);
   }
   100% {
-    background-image: url(./img/555555.svg);
+    background-image: url(./img/6.png);
   }
 }
 
@@ -250,3 +250,4 @@ p {
     top: 60px;
   }
 }
+
